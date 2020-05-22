@@ -1,4 +1,4 @@
-## Primer caso clasificación
+### Primer caso clasificación
 
 library(tidyverse)
 library(caret)
